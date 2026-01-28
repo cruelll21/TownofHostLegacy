@@ -15,11 +15,7 @@
 </p>
 <p align="center">
 
-<center>
-<a href="https://weareten.ca/" target="_blank"><img src="https://img.shields.io/badge/Website%20-%231DA1F2.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white&color=3aa675"/></a>
-<a href="https://discord.gg/ten" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5662f6"/></a>
-<a href="https://github.com/0xDrMoe/TownofHost-Enhanced/releases/latest" target="_blank"><img src="https://img.shields.io/badge/Latest Version%20-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
-</center>
+
 
 
 
@@ -122,20 +118,3 @@ This project utilizes a third-party API, custom-coded by The Enhanced Network. f
 ## Licensing Information
 
 This project is licensed under the GNU General Public License version 3.0. For more details, please refer to the [LICENSE](https://github.com/0xDrMoe/TownofHost-Enhanced/blob/main/LICENSE) file.
-
-### Third-Party API Access
-
-To obtain an API token for this project, you must join our Discord server and open a ticket. Follow the steps below:
-
-1. **Join our Discord Server:**
-   https://discord.gg/ten
-
-2. **Open a Ticket:**
-   Once you've joined the server, open a ticket and request an API token for TOHE API. Provide any necessary information as instructed in the ticket system.
-
-3. **Token Usage:**
-   Upon receiving the API token, follow the instructions in the documentation to configure and use the token with the project.
-
-**Note:** Access to the API is subject to our terms and conditions. Failure to comply with these terms may result in revocation of API access. Additionally, you only need a token if you are a developer. You do not need it to play the mod.
-
----
